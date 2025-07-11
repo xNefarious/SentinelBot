@@ -1,6 +1,8 @@
 # SentinelBot
 Task for Building AI Certificate
 
+## Summary
+
 ## Project Name: SentinelBot
 Brief Description: SentinelBot is an AI-powered moderation tool designed to detect and take action against hateful, manipulative, or predatory messages on social media. It helps protect vulnerable users by identifying harmful content and alerting them to possible scams, grooming attempts, or abuse in real time.
 Background
