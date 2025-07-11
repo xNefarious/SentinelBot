@@ -3,14 +3,14 @@ Task for Building AI Certificate
 
 ## Summary
 
-## Project Name: SentinelBot
+### Project Name: SentinelBot
 Brief Description: SentinelBot is an AI-powered moderation tool designed to detect and take action against hateful, manipulative, or predatory messages on social media. It helps protect vulnerable users by identifying harmful content and alerting them to possible scams, grooming attempts, or abuse in real time.
 Background
 
-## The Problem
+### The Problem
 Social media platforms host millions of conversations daily, but not all are safe. Many users—especially teenagers, children, and older adults—are at risk of online manipulation, grooming, and harassment. Current moderation tools are limited in their ability to understand nuance, context, and subtle manipulation.
 
-## How Common Is It?
+### How Common Is It?
 
     Online grooming and manipulation are growing concerns.
 
@@ -18,14 +18,14 @@ Social media platforms host millions of conversations daily, but not all are saf
 
     Many users are unaware they’re being targeted until it’s too late.
 
-## Personal Motivation
+### Personal Motivation
 Having seen how easily users can be targeted online, especially those who aren't tech-savvy, I wanted to develop a tool that offers real-time protection and awareness. The goal is to create something that proactively supports users, not just reactively moderate content after harm is done.
 
-## Why This Topic Matters
+### Why This Topic Matters
 This project is about safety, awareness, and education in the digital space. By offering intelligent assistance and alerts, we can empower users to recognize dangerous interactions and take control of their online experience.
 Data and AI Techniques
 
-## Data Sources
+### Data Sources
 The project could rely on several existing and well-researched datasets, including:
 
     Hate Speech and Offensive Language Dataset (Davidson et al.)
@@ -36,7 +36,7 @@ The project could rely on several existing and well-researched datasets, includi
 
     Social media datasets with labeled manipulative or predatory content
 
-## AI Techniques
+### AI Techniques
 
     Natural Language Processing (NLP) with transformer models (e.g., BERT, RoBERTa)
 
@@ -51,7 +51,7 @@ The project could rely on several existing and well-researched datasets, includi
 Potential Demo
 A simple Python script or web app could demonstrate classification of text inputs into categories. Using tools like Hugging Face Transformers, one could build an initial proof of concept capable of detecting basic harmful messages.
 
-## How It’s Used
+### How It’s Used
 
 Target Users
 
@@ -74,7 +74,7 @@ SentinelBot is intended to be deployed in several ways:
 
 The goal is to blend seamlessly into platforms users already rely on, without disrupting their experience unless a risk is detected.
 
-## Challenges
+### Challenges
 
     False Positives: Humor, sarcasm, role-playing, or strong opinions could be misunderstood by the model.
 
@@ -84,7 +84,7 @@ The goal is to blend seamlessly into platforms users already rely on, without di
 
     Adoption by Platforms: Gaining the cooperation of major platforms like YouTube or TikTok might prove to be complicated
 
-## Possible Next Steps
+### Possible Next Steps
 
 Future Development:
 
@@ -104,7 +104,7 @@ Potential Features:
 
     Educational tips for users on how to respond or report manipulation attempts
 
-## Acknowledgments
+### Acknowledgments
 
     Hate Speech and Offensive Language Dataset – Davidson et al.
     https://github.com/t-davidson/hate-speech-and-offensive-language
